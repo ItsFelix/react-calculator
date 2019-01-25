@@ -1,5 +1,7 @@
 body {
   background-color: black;
+  max-height: 100vh;
+  overflow: hidden;
 }
 
 .App {
